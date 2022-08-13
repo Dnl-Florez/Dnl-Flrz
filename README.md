@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dnl-Flrz
-- 👀 I’m interested in learn about code and grow up in knowledge
-- 🌱 I’m constantly learning, work on Python, Java and SQL
-- 🧠 I study computer science in collegue
-- 💞️ I’m looking to collaborate on every kind of projects
-- 📫 I´m on Instagram @Dnl_Florez, on Twitter @_QueVisaje, or E-mail dnlflorez@outlook.com
+- 👋 Hi, I’m @Dnl-Flrz from Colombia
+- 🌱 Constantly learning
+- 💾 Work on Python, Java, C++, SQL
+-  I study computer science in Universidad Católica de Colombia
+- 👀 I’d like to collaborate on every kind of projects
+- 📫 Find me on Instagram @Dnl_Florez, on Twitter @_QueVisaje, or E-mail dnlflorez@outlook.com
